@@ -10,6 +10,105 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 2",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 129,
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 3",
+      "author": "J. K. Rowling",
+      "genre": "science",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1249,
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 4",
+      "author": "J. K. Rowling",
+      "genre": "science",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": 1200,
+      "borrowed": false
+    },
+    {
+      "id": 5,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 5",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 109,
+      "borrowed": false
+    },
+    {
+      "id": 6,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "Book 6",
+      "genre": "tech",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 429,
+      "borrowed": false
+    },
+    {
+      "id": 7,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 7",
+      "author": "J. K. Rowling",
+      "genre": "history",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": 149,
+      "borrowed": false
+    },
+    {
+      "id": 8,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 8",
+      "author": "J. K. Rowling",
+      "genre": "history",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 19,
+      "borrowed": false
+    },
+    {
+      "id": 9,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 9",
+      "author": "J. K. Rowling",
+      "genre": "business",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 199,
+      "borrowed": false
+    },
+    {
+      "id": 10,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Book 10",
+      "author": "J. K. Rowling",
+      "genre": "business",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 119,
+      "borrowed": false
     }
   ],
   "users": [
