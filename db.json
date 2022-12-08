@@ -111,524 +111,526 @@
       "borrowed": false
     }
   ],
-  "users": [
+  "user": [
     {
       "id": 1,
       "username": "ravi",
       "email": "rp120896@gmail.com",
-      "time": 123456789
+      "name": "Ravi Pandey",
+      "password": "12345",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "followers": 123,
+      "following": 100
     }
   ],
-  "todos":[
+  "todos": [
     {
-    "id": 1,
-    "title": "delectus aut autem",
-    "status": false
+      "id": 1,
+      "title": "delectus aut autem",
+      "status": false
     },
     {
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "status": false
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "status": false
     },
     {
-
-    "id": 3,
-    "title": "fugiat veniam minus",
-    "status": false
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "status": false
     },
     {
-
-    "id": 4,
-    "title": "et porro tempora",
-    "status": true
+      "id": 4,
+      "title": "et porro tempora",
+      "status": true
     },
     {
-
-    "id": 5,
-    "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-    "status": false
+      "id": 5,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "status": false
     },
     {
-    "id": 6,
-    "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-    "status": false
+      "id": 6,
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "status": false
     },
     {
-    "id": 7,
-    "title": "illo expedita consequatur quia in",
-    "status": false
+      "id": 7,
+      "title": "illo expedita consequatur quia in",
+      "status": false
     },
     {
-    "id": 8,
-    "title": "quo adipisci enim quam ut ab",
-    "status": true
+      "id": 8,
+      "title": "quo adipisci enim quam ut ab",
+      "status": true
     },
     {
-    "id": 9,
-    "title": "molestiae perspiciatis ipsa",
-    "status": false
+      "id": 9,
+      "title": "molestiae perspiciatis ipsa",
+      "status": false
     },
     {
-    "id": 10,
-    "title": "illo est ratione doloremque quia maiores aut",
-    "status": true
+      "id": 10,
+      "title": "illo est ratione doloremque quia maiores aut",
+      "status": true
     },
     {
-    "id": 11,
-    "title": "vero rerum temporibus dolor",
-    "status": true
+      "id": 11,
+      "title": "vero rerum temporibus dolor",
+      "status": true
     },
     {
-    "id": 12,
-    "title": "ipsa repellendus fugit nisi",
-    "status": true
+      "id": 12,
+      "title": "ipsa repellendus fugit nisi",
+      "status": true
     },
     {
-    "id": 13,
-    "title": "et doloremque nulla",
-    "status": false
+      "id": 13,
+      "title": "et doloremque nulla",
+      "status": false
     },
     {
-    "id": 14,
-    "title": "repellendus sunt dolores architecto voluptatum",
-    "status": true
+      "id": 14,
+      "title": "repellendus sunt dolores architecto voluptatum",
+      "status": true
     },
     {
-    "id": 15,
-    "title": "ab voluptatum amet voluptas",
-    "status": true
+      "id": 15,
+      "title": "ab voluptatum amet voluptas",
+      "status": true
     },
     {
-    "id": 16,
-    "title": "accusamus eos facilis sint et aut voluptatem",
-    "status": true
+      "id": 16,
+      "title": "accusamus eos facilis sint et aut voluptatem",
+      "status": true
     },
     {
-    "id": 17,
-    "title": "quo laboriosam deleniti aut qui",
-    "status": true
+      "id": 17,
+      "title": "quo laboriosam deleniti aut qui",
+      "status": true
     },
     {
-    "id": 18,
-    "title": "dolorum est consequatur ea mollitia in culpa",
-    "status": false
+      "id": 18,
+      "title": "dolorum est consequatur ea mollitia in culpa",
+      "status": false
     },
     {
-    "id": 19,
-    "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
-    "status": true
+      "id": 19,
+      "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+      "status": true
     },
     {
-    "id": 20,
-    "title": "ullam nobis libero sapiente ad optio sint",
-    "status": true
+      "id": 20,
+      "title": "ullam nobis libero sapiente ad optio sint",
+      "status": true
     },
     {
-    "id": 21,
-    "title": "suscipit repellat esse quibusdam voluptatem incidunt",
-    "status": false
+      "id": 21,
+      "title": "suscipit repellat esse quibusdam voluptatem incidunt",
+      "status": false
     },
     {
-    "id": 22,
-    "title": "distinctio vitae autem nihil ut molestias quo",
-    "status": true
+      "id": 22,
+      "title": "distinctio vitae autem nihil ut molestias quo",
+      "status": true
     },
     {
-    "id": 23,
-    "title": "et itaque necessitatibus maxime molestiae qui quas velit",
-    "status": false
+      "id": 23,
+      "title": "et itaque necessitatibus maxime molestiae qui quas velit",
+      "status": false
     },
     {
-    "id": 24,
-    "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
-    "status": false
+      "id": 24,
+      "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
+      "status": false
     },
     {
-    "id": 25,
-    "title": "voluptas quo tenetur perspiciatis explicabo natus",
-    "status": true
+      "id": 25,
+      "title": "voluptas quo tenetur perspiciatis explicabo natus",
+      "status": true
     },
     {
-    "id": 26,
-    "title": "aliquam aut quasi",
-    "status": true
+      "id": 26,
+      "title": "aliquam aut quasi",
+      "status": true
     },
     {
-    "id": 27,
-    "title": "veritatis pariatur delectus",
-    "status": true
+      "id": 27,
+      "title": "veritatis pariatur delectus",
+      "status": true
     },
     {
-    "id": 28,
-    "title": "nesciunt totam sit blanditiis sit",
-    "status": false
+      "id": 28,
+      "title": "nesciunt totam sit blanditiis sit",
+      "status": false
     },
     {
-    "id": 29,
-    "title": "laborum aut in quam",
-    "status": false
+      "id": 29,
+      "title": "laborum aut in quam",
+      "status": false
     },
     {
-    "id": 30,
-    "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
-    "status": true
+      "id": 30,
+      "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+      "status": true
     },
     {
-    "id": 31,
-    "title": "repudiandae totam in est sint facere fuga",
-    "status": false
+      "id": 31,
+      "title": "repudiandae totam in est sint facere fuga",
+      "status": false
     },
     {
-    "id": 32,
-    "title": "earum doloribus ea doloremque quis",
-    "status": false
+      "id": 32,
+      "title": "earum doloribus ea doloremque quis",
+      "status": false
     },
     {
-    "id": 33,
-    "title": "sint sit aut vero",
-    "status": false
+      "id": 33,
+      "title": "sint sit aut vero",
+      "status": false
     },
     {
-    "id": 34,
-    "title": "porro aut necessitatibus eaque distinctio",
-    "status": false
+      "id": 34,
+      "title": "porro aut necessitatibus eaque distinctio",
+      "status": false
     },
     {
-    "id": 35,
-    "title": "repellendus veritatis molestias dicta incidunt",
-    "status": true
+      "id": 35,
+      "title": "repellendus veritatis molestias dicta incidunt",
+      "status": true
     },
     {
-    "id": 36,
-    "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
-    "status": true
+      "id": 36,
+      "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
+      "status": true
     },
     {
-    "id": 37,
-    "title": "sunt cum tempora",
-    "status": false
+      "id": 37,
+      "title": "sunt cum tempora",
+      "status": false
     },
     {
-    "id": 38,
-    "title": "totam quia non",
-    "status": false
+      "id": 38,
+      "title": "totam quia non",
+      "status": false
     },
     {
-    "id": 39,
-    "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
-    "status": false
+      "id": 39,
+      "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
+      "status": false
     },
     {
-    "id": 40,
-    "title": "totam atque quo nesciunt",
-    "status": true
+      "id": 40,
+      "title": "totam atque quo nesciunt",
+      "status": true
     },
     {
-    "id": 41,
-    "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
-    "status": false
+      "id": 41,
+      "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
+      "status": false
     },
     {
-    "id": 42,
-    "title": "rerum perferendis error quia ut eveniet",
-    "status": false
+      "id": 42,
+      "title": "rerum perferendis error quia ut eveniet",
+      "status": false
     },
     {
-    "id": 43,
-    "title": "tempore ut sint quis recusandae",
-    "status": true
+      "id": 43,
+      "title": "tempore ut sint quis recusandae",
+      "status": true
     },
     {
-    "id": 44,
-    "title": "cum debitis quis accusamus doloremque ipsa natus sapiente omnis",
-    "status": true
+      "id": 44,
+      "title": "cum debitis quis accusamus doloremque ipsa natus sapiente omnis",
+      "status": true
     },
     {
-    "id": 45,
-    "title": "velit soluta adipisci molestias reiciendis harum",
-    "status": false
+      "id": 45,
+      "title": "velit soluta adipisci molestias reiciendis harum",
+      "status": false
     },
     {
-    "id": 46,
-    "title": "vel voluptatem repellat nihil placeat corporis",
-    "status": false
+      "id": 46,
+      "title": "vel voluptatem repellat nihil placeat corporis",
+      "status": false
     },
     {
-    "id": 47,
-    "title": "nam qui rerum fugiat accusamus",
-    "status": false
+      "id": 47,
+      "title": "nam qui rerum fugiat accusamus",
+      "status": false
     },
     {
-    "id": 48,
-    "title": "sit reprehenderit omnis quia",
-    "status": false
+      "id": 48,
+      "title": "sit reprehenderit omnis quia",
+      "status": false
     },
     {
-    "id": 49,
-    "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
-    "status": false
+      "id": 49,
+      "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
+      "status": false
     },
     {
-    "id": 50,
-    "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
-    "status": true
+      "id": 50,
+      "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
+      "status": true
     },
     {
-    "id": 51,
-    "title": "distinctio exercitationem ab doloribus",
-    "status": false
+      "id": 51,
+      "title": "distinctio exercitationem ab doloribus",
+      "status": false
     },
     {
-    "id": 52,
-    "title": "nesciunt dolorum quis recusandae ad pariatur ratione",
-    "status": false
+      "id": 52,
+      "title": "nesciunt dolorum quis recusandae ad pariatur ratione",
+      "status": false
     },
     {
-    "id": 53,
-    "title": "qui labore est occaecati recusandae aliquid quam",
-    "status": false
+      "id": 53,
+      "title": "qui labore est occaecati recusandae aliquid quam",
+      "status": false
     },
     {
-    "id": 54,
-    "title": "quis et est ut voluptate quam dolor",
-    "status": true
+      "id": 54,
+      "title": "quis et est ut voluptate quam dolor",
+      "status": true
     },
     {
-    "id": 55,
-    "title": "voluptatum omnis minima qui occaecati provident nulla voluptatem ratione",
-    "status": true
+      "id": 55,
+      "title": "voluptatum omnis minima qui occaecati provident nulla voluptatem ratione",
+      "status": true
     },
     {
-    "id": 56,
-    "title": "deleniti ea temporibus enim",
-    "status": true
+      "id": 56,
+      "title": "deleniti ea temporibus enim",
+      "status": true
     },
     {
-    "id": 57,
-    "title": "pariatur et magnam ea doloribus similique voluptatem rerum quia",
-    "status": false
+      "id": 57,
+      "title": "pariatur et magnam ea doloribus similique voluptatem rerum quia",
+      "status": false
     },
     {
-    "id": 58,
-    "title": "est dicta totam qui explicabo doloribus qui dignissimos",
-    "status": false
+      "id": 58,
+      "title": "est dicta totam qui explicabo doloribus qui dignissimos",
+      "status": false
     },
     {
-    "id": 59,
-    "title": "perspiciatis velit id laborum placeat iusto et aliquam odio",
-    "status": false
+      "id": 59,
+      "title": "perspiciatis velit id laborum placeat iusto et aliquam odio",
+      "status": false
     },
     {
-    "id": 60,
-    "title": "et sequi qui architecto ut adipisci",
-    "status": true
+      "id": 60,
+      "title": "et sequi qui architecto ut adipisci",
+      "status": true
     },
     {
-    "id": 61,
-    "title": "odit optio omnis qui sunt",
-    "status": true
+      "id": 61,
+      "title": "odit optio omnis qui sunt",
+      "status": true
     },
     {
-    "id": 62,
-    "title": "et placeat et tempore aspernatur sint numquam",
-    "status": false
+      "id": 62,
+      "title": "et placeat et tempore aspernatur sint numquam",
+      "status": false
     },
     {
-    "id": 63,
-    "title": "doloremque aut dolores quidem fuga qui nulla",
-    "status": true
+      "id": 63,
+      "title": "doloremque aut dolores quidem fuga qui nulla",
+      "status": true
     },
     {
-    "id": 64,
-    "title": "voluptas consequatur qui ut quia magnam nemo esse",
-    "status": false
+      "id": 64,
+      "title": "voluptas consequatur qui ut quia magnam nemo esse",
+      "status": false
     },
     {
-    "id": 65,
-    "title": "fugiat pariatur ratione ut asperiores necessitatibus magni",
-    "status": false
+      "id": 65,
+      "title": "fugiat pariatur ratione ut asperiores necessitatibus magni",
+      "status": false
     },
     {
-    "id": 66,
-    "title": "rerum eum molestias autem voluptatum sit optio",
-    "status": false
+      "id": 66,
+      "title": "rerum eum molestias autem voluptatum sit optio",
+      "status": false
     },
     {
-    "id": 67,
-    "title": "quia voluptatibus voluptatem quos similique maiores repellat",
-    "status": false
+      "id": 67,
+      "title": "quia voluptatibus voluptatem quos similique maiores repellat",
+      "status": false
     },
     {
-    "id": 68,
-    "title": "aut id perspiciatis voluptatem iusto",
-    "status": false
+      "id": 68,
+      "title": "aut id perspiciatis voluptatem iusto",
+      "status": false
     },
     {
-    "id": 69,
-    "title": "doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit",
-    "status": false
+      "id": 69,
+      "title": "doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit",
+      "status": false
     },
     {
-    "id": 70,
-    "title": "ut sequi accusantium et mollitia delectus sunt",
-    "status": false
+      "id": 70,
+      "title": "ut sequi accusantium et mollitia delectus sunt",
+      "status": false
     },
     {
-    "id": 71,
-    "title": "aut velit saepe ullam",
-    "status": false
+      "id": 71,
+      "title": "aut velit saepe ullam",
+      "status": false
     },
     {
-    "id": 72,
-    "title": "praesentium facilis facere quis harum voluptatibus voluptatem eum",
-    "status": false
+      "id": 72,
+      "title": "praesentium facilis facere quis harum voluptatibus voluptatem eum",
+      "status": false
     },
     {
-    "id": 73,
-    "title": "sint amet quia totam corporis qui exercitationem commodi",
-    "status": true
+      "id": 73,
+      "title": "sint amet quia totam corporis qui exercitationem commodi",
+      "status": true
     },
     {
-    "id": 74,
-    "title": "expedita tempore nobis eveniet laborum maiores",
-    "status": false
+      "id": 74,
+      "title": "expedita tempore nobis eveniet laborum maiores",
+      "status": false
     },
     {
-    "id": 75,
-    "title": "occaecati adipisci est possimus totam",
-    "status": false
+      "id": 75,
+      "title": "occaecati adipisci est possimus totam",
+      "status": false
     },
     {
-    "id": 76,
-    "title": "sequi dolorem sed",
-    "status": true
+      "id": 76,
+      "title": "sequi dolorem sed",
+      "status": true
     },
     {
-    "id": 77,
-    "title": "maiores aut nesciunt delectus exercitationem vel assumenda eligendi at",
-    "status": false
+      "id": 77,
+      "title": "maiores aut nesciunt delectus exercitationem vel assumenda eligendi at",
+      "status": false
     },
     {
-    "id": 78,
-    "title": "reiciendis est magnam amet nemo iste recusandae impedit quaerat",
-    "status": false
+      "id": 78,
+      "title": "reiciendis est magnam amet nemo iste recusandae impedit quaerat",
+      "status": false
     },
     {
-    "id": 79,
-    "title": "eum ipsa maxime ut",
-    "status": true
+      "id": 79,
+      "title": "eum ipsa maxime ut",
+      "status": true
     },
     {
-    "id": 80,
-    "title": "tempore molestias dolores rerum sequi voluptates ipsum consequatur",
-    "status": true
+      "id": 80,
+      "title": "tempore molestias dolores rerum sequi voluptates ipsum consequatur",
+      "status": true
     },
     {
-    "id": 81,
-    "title": "suscipit qui totam",
-    "status": true
+      "id": 81,
+      "title": "suscipit qui totam",
+      "status": true
     },
     {
-    "id": 82,
-    "title": "voluptates eum voluptas et dicta",
-    "status": false
+      "id": 82,
+      "title": "voluptates eum voluptas et dicta",
+      "status": false
     },
     {
-    "id": 83,
-    "title": "quidem at rerum quis ex aut sit quam",
-    "status": true
+      "id": 83,
+      "title": "quidem at rerum quis ex aut sit quam",
+      "status": true
     },
     {
-    "id": 84,
-    "title": "sunt veritatis ut voluptate",
-    "status": false
+      "id": 84,
+      "title": "sunt veritatis ut voluptate",
+      "status": false
     },
     {
-    "id": 85,
-    "title": "et quia ad iste a",
-    "status": true
+      "id": 85,
+      "title": "et quia ad iste a",
+      "status": true
     },
     {
-    "id": 86,
-    "title": "incidunt ut saepe autem",
-    "status": true
+      "id": 86,
+      "title": "incidunt ut saepe autem",
+      "status": true
     },
     {
-    "id": 87,
-    "title": "laudantium quae eligendi consequatur quia et vero autem",
-    "status": true
+      "id": 87,
+      "title": "laudantium quae eligendi consequatur quia et vero autem",
+      "status": true
     },
     {
-    "id": 88,
-    "title": "vitae aut excepturi laboriosam sint aliquam et et accusantium",
-    "status": false
+      "id": 88,
+      "title": "vitae aut excepturi laboriosam sint aliquam et et accusantium",
+      "status": false
     },
     {
-    "id": 89,
-    "title": "sequi ut omnis et",
-    "status": true
+      "id": 89,
+      "title": "sequi ut omnis et",
+      "status": true
     },
     {
-    "id": 90,
-    "title": "molestiae nisi accusantium tenetur dolorem et",
-    "status": true
+      "id": 90,
+      "title": "molestiae nisi accusantium tenetur dolorem et",
+      "status": true
     },
     {
-    "id": 91,
-    "title": "nulla quis consequatur saepe qui id expedita",
-    "status": true
+      "id": 91,
+      "title": "nulla quis consequatur saepe qui id expedita",
+      "status": true
     },
     {
-    "id": 92,
-    "title": "in omnis laboriosam",
-    "status": true
+      "id": 92,
+      "title": "in omnis laboriosam",
+      "status": true
     },
     {
-    "id": 93,
-    "title": "odio iure consequatur molestiae quibusdam necessitatibus quia sint",
-    "status": true
+      "id": 93,
+      "title": "odio iure consequatur molestiae quibusdam necessitatibus quia sint",
+      "status": true
     },
     {
-    "id": 94,
-    "title": "facilis modi saepe mollitia",
-    "status": false
+      "id": 94,
+      "title": "facilis modi saepe mollitia",
+      "status": false
     },
     {
-    "id": 95,
-    "title": "vel nihil et molestiae iusto assumenda nemo quo ut",
-    "status": true
+      "id": 95,
+      "title": "vel nihil et molestiae iusto assumenda nemo quo ut",
+      "status": true
     },
     {
-    "id": 96,
-    "title": "nobis suscipit ducimus enim asperiores voluptas",
-    "status": false
+      "id": 96,
+      "title": "nobis suscipit ducimus enim asperiores voluptas",
+      "status": false
     },
     {
-    "id": 97,
-    "title": "dolorum laboriosam eos qui iure aliquam",
-    "status": false
+      "id": 97,
+      "title": "dolorum laboriosam eos qui iure aliquam",
+      "status": false
     },
     {
-    "id": 98,
-    "title": "debitis accusantium ut quo facilis nihil quis sapiente necessitatibus",
-    "status": true
+      "id": 98,
+      "title": "debitis accusantium ut quo facilis nihil quis sapiente necessitatibus",
+      "status": true
     },
     {
-    "id": 99,
-    "title": "neque voluptates ratione",
-    "status": false
+      "id": 99,
+      "title": "neque voluptates ratione",
+      "status": false
     },
     {
-    "id": 100,
-    "title": "excepturi a et neque qui expedita vel voluptate",
-    "status": false
+      "id": 100,
+      "title": "excepturi a et neque qui expedita vel voluptate",
+      "status": false
     }
   ],
   "posts": [
     {
-      "id": 0,
+      "id": 1,
+      "username": "ravi",
       "title": "First post!",
-      "content": "My first content!"
+      "gif": "https://media0.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif?cid=d0a3fe13yx3ucelw4cr258t5skzznjyz03ejn1sg7nhyvhuo&rid=giphy.gif&ct=g"
     }
   ],
   "comments": [
@@ -668,452 +670,451 @@
   ],
   "cities": [
     {
-    "name": "Palm Bay",
-    "population": 55744,
-    "country": "Guinea-Bissau",
-    "id": "1"
+      "name": "Palm Bay",
+      "population": 55744,
+      "country": "Guinea-Bissau",
+      "id": "1"
     },
     {
-    "name": "Ponce",
-    "population": 87718,
-    "country": "Martinique",
-    "id": "2"
+      "name": "Ponce",
+      "population": 87718,
+      "country": "Martinique",
+      "id": "2"
     },
     {
-    "name": "Fort Lauderdale",
-    "population": 6287,
-    "country": "Greenland",
-    "id": "3"
+      "name": "Fort Lauderdale",
+      "population": 6287,
+      "country": "Greenland",
+      "id": "3"
     },
     {
-    "name": "San Luis Obispo",
-    "population": 3949,
-    "country": "Macedonia",
-    "id": "4"
+      "name": "San Luis Obispo",
+      "population": 3949,
+      "country": "Macedonia",
+      "id": "4"
     },
     {
-    "name": "Coconut Creek",
-    "population": 25092,
-    "country": "Guernsey",
-    "id": "5"
+      "name": "Coconut Creek",
+      "population": 25092,
+      "country": "Guernsey",
+      "id": "5"
     },
     {
-    "name": "Jackson",
-    "population": 34293,
-    "country": "Malta",
-    "id": "6"
+      "name": "Jackson",
+      "population": 34293,
+      "country": "Malta",
+      "id": "6"
     },
     {
-    "name": "Escondido",
-    "population": 47343,
-    "country": "Jersey",
-    "id": "7"
+      "name": "Escondido",
+      "population": 47343,
+      "country": "Jersey",
+      "id": "7"
     },
     {
-    "name": "Davie",
-    "population": 18390,
-    "country": "Guinea-Bissau",
-    "id": "8"
+      "name": "Davie",
+      "population": 18390,
+      "country": "Guinea-Bissau",
+      "id": "8"
     },
     {
-    "name": "Brooklyn Park",
-    "population": 516,
-    "country": "Cote d'Ivoire",
-    "id": "9"
+      "name": "Brooklyn Park",
+      "population": 516,
+      "country": "Cote d'Ivoire",
+      "id": "9"
     },
     {
-    "name": "Bayonne",
-    "population": 8883,
-    "country": "Pitcairn Islands",
-    "id": "10"
+      "name": "Bayonne",
+      "population": 8883,
+      "country": "Pitcairn Islands",
+      "id": "10"
     },
     {
-    "name": "Santa Maria",
-    "population": 50267,
-    "country": "United Arab Emirates",
-    "id": "11"
+      "name": "Santa Maria",
+      "population": 50267,
+      "country": "United Arab Emirates",
+      "id": "11"
     },
     {
-    "name": "Paradise",
-    "population": 71209,
-    "country": "Turkmenistan",
-    "id": "12"
+      "name": "Paradise",
+      "population": 71209,
+      "country": "Turkmenistan",
+      "id": "12"
     },
     {
-    "name": "Kansas City",
-    "population": 41010,
-    "country": "Georgia",
-    "id": "13"
+      "name": "Kansas City",
+      "population": 41010,
+      "country": "Georgia",
+      "id": "13"
     },
     {
-    "name": "Niagara Falls",
-    "population": 4316,
-    "country": "Norway",
-    "id": "14"
+      "name": "Niagara Falls",
+      "population": 4316,
+      "country": "Norway",
+      "id": "14"
     },
     {
-    "name": "Palatine",
-    "population": 82067,
-    "country": "Monaco",
-    "id": "15"
+      "name": "Palatine",
+      "population": 82067,
+      "country": "Monaco",
+      "id": "15"
     },
     {
-    "name": "Bristol",
-    "population": 4469,
-    "country": "Iceland",
-    "id": "16"
+      "name": "Bristol",
+      "population": 4469,
+      "country": "Iceland",
+      "id": "16"
     },
     {
-    "name": "El Cajon",
-    "population": 67696,
-    "country": "Uruguay",
-    "id": "17"
+      "name": "El Cajon",
+      "population": 67696,
+      "country": "Uruguay",
+      "id": "17"
     },
     {
-    "name": "Euless",
-    "population": 37222,
-    "country": "Poland",
-    "id": "18"
+      "name": "Euless",
+      "population": 37222,
+      "country": "Poland",
+      "id": "18"
     },
     {
-    "name": "Chino",
-    "population": 73375,
-    "country": "Israel",
-    "id": "19"
+      "name": "Chino",
+      "population": 73375,
+      "country": "Israel",
+      "id": "19"
     },
     {
-    "name": "San Francisco",
-    "population": 66512,
-    "country": "Netherlands Antilles",
-    "id": "20"
+      "name": "San Francisco",
+      "population": 66512,
+      "country": "Netherlands Antilles",
+      "id": "20"
     },
     {
-    "name": "Chula Vista",
-    "population": 44466,
-    "country": "Bulgaria",
-    "id": "21"
+      "name": "Chula Vista",
+      "population": 44466,
+      "country": "Bulgaria",
+      "id": "21"
     },
     {
-    "name": "Carson City",
-    "population": 36417,
-    "country": "Panama",
-    "id": "22"
+      "name": "Carson City",
+      "population": 36417,
+      "country": "Panama",
+      "id": "22"
     },
     {
-    "name": "Fall River",
-    "population": 96184,
-    "country": "Nigeria",
-    "id": "23"
+      "name": "Fall River",
+      "population": 96184,
+      "country": "Nigeria",
+      "id": "23"
     },
     {
-    "name": "Reading",
-    "population": 6641,
-    "country": "Yemen",
-    "id": "24"
+      "name": "Reading",
+      "population": 6641,
+      "country": "Yemen",
+      "id": "24"
     },
     {
-    "name": "Jonesboro",
-    "population": 84003,
-    "country": "Antarctica (the territory South of 60 deg S)",
-    "id": "25"
+      "name": "Jonesboro",
+      "population": 84003,
+      "country": "Antarctica (the territory South of 60 deg S)",
+      "id": "25"
     },
     {
-    "name": "Roswell",
-    "population": 5625,
-    "country": "Norfolk Island",
-    "id": "26"
+      "name": "Roswell",
+      "population": 5625,
+      "country": "Norfolk Island",
+      "id": "26"
     },
     {
-    "name": "Oak Lawn",
-    "population": 14021,
-    "country": "Italy",
-    "id": "27"
+      "name": "Oak Lawn",
+      "population": 14021,
+      "country": "Italy",
+      "id": "27"
     },
     {
-    "name": "University",
-    "population": 45745,
-    "country": "Slovenia",
-    "id": "28"
+      "name": "University",
+      "population": 45745,
+      "country": "Slovenia",
+      "id": "28"
     },
     {
-    "name": "Springfield",
-    "population": 51699,
-    "country": "Vanuatu",
-    "id": "29"
+      "name": "Springfield",
+      "population": 51699,
+      "country": "Vanuatu",
+      "id": "29"
     },
     {
-    "name": "Vineland",
-    "population": 33700,
-    "country": "Tanzania",
-    "id": "30"
+      "name": "Vineland",
+      "population": 33700,
+      "country": "Tanzania",
+      "id": "30"
     },
     {
-    "name": "San Jose",
-    "population": 97491,
-    "country": "Nigeria",
-    "id": "31"
+      "name": "San Jose",
+      "population": 97491,
+      "country": "Nigeria",
+      "id": "31"
     },
     {
-    "name": "Lodi",
-    "population": 96433,
-    "country": "Tokelau",
-    "id": "32"
+      "name": "Lodi",
+      "population": 96433,
+      "country": "Tokelau",
+      "id": "32"
     },
     {
-    "name": "Decatur",
-    "population": 88887,
-    "country": "Israel",
-    "id": "33"
+      "name": "Decatur",
+      "population": 88887,
+      "country": "Israel",
+      "id": "33"
     },
     {
-    "name": "Palm Springs",
-    "population": 54064,
-    "country": "Bulgaria",
-    "id": "34"
+      "name": "Palm Springs",
+      "population": 54064,
+      "country": "Bulgaria",
+      "id": "34"
     },
     {
-    "name": "Durham",
-    "population": 11732,
-    "country": "Antarctica (the territory South of 60 deg S)",
-    "id": "35"
+      "name": "Durham",
+      "population": 11732,
+      "country": "Antarctica (the territory South of 60 deg S)",
+      "id": "35"
     },
     {
-    "name": "Pharr",
-    "population": 71942,
-    "country": "Democratic People's Republic of Korea",
-    "id": "36"
+      "name": "Pharr",
+      "population": 71942,
+      "country": "Democratic People's Republic of Korea",
+      "id": "36"
     },
     {
-    "name": "Midwest City",
-    "population": 29123,
-    "country": "Fiji",
-    "id": "37"
+      "name": "Midwest City",
+      "population": 29123,
+      "country": "Fiji",
+      "id": "37"
     },
     {
-    "name": "Anaheim",
-    "population": 60833,
-    "country": "Vanuatu",
-    "id": "38"
+      "name": "Anaheim",
+      "population": 60833,
+      "country": "Vanuatu",
+      "id": "38"
     },
     {
-    "name": "Apex",
-    "population": 67443,
-    "country": "Eritrea",
-    "id": "39"
+      "name": "Apex",
+      "population": 67443,
+      "country": "Eritrea",
+      "id": "39"
     },
     {
-    "name": "Lawrence",
-    "population": 28565,
-    "country": "Lithuania",
-    "id": "40"
+      "name": "Lawrence",
+      "population": 28565,
+      "country": "Lithuania",
+      "id": "40"
     },
     {
-    "name": "Marysville",
-    "population": 71418,
-    "country": "Croatia",
-    "id": "41"
+      "name": "Marysville",
+      "population": 71418,
+      "country": "Croatia",
+      "id": "41"
     },
     {
-    "name": "Deltona",
-    "population": 54602,
-    "country": "Guinea-Bissau",
-    "id": "42"
+      "name": "Deltona",
+      "population": 54602,
+      "country": "Guinea-Bissau",
+      "id": "42"
     },
     {
-    "name": "Appleton",
-    "population": 85612,
-    "country": "Sudan",
-    "id": "43"
+      "name": "Appleton",
+      "population": 85612,
+      "country": "Sudan",
+      "id": "43"
     },
     {
-    "name": "Pasadena",
-    "population": 10482,
-    "country": "Germany",
-    "id": "44"
+      "name": "Pasadena",
+      "population": 10482,
+      "country": "Germany",
+      "id": "44"
     },
     {
-    "name": "San Luis Obispo",
-    "population": 84636,
-    "country": "Mozambique",
-    "id": "45"
+      "name": "San Luis Obispo",
+      "population": 84636,
+      "country": "Mozambique",
+      "id": "45"
     },
     {
-    "name": "Corvallis",
-    "population": 71974,
-    "country": "Norway",
-    "id": "46"
+      "name": "Corvallis",
+      "population": 71974,
+      "country": "Norway",
+      "id": "46"
     },
     {
-    "name": "Bellingham",
-    "population": 94874,
-    "country": "Guatemala",
-    "id": "47"
+      "name": "Bellingham",
+      "population": 94874,
+      "country": "Guatemala",
+      "id": "47"
     },
     {
-    "name": "Cuyahoga Falls",
-    "population": 10042,
-    "country": "Macao",
-    "id": "48"
+      "name": "Cuyahoga Falls",
+      "population": 10042,
+      "country": "Macao",
+      "id": "48"
     },
     {
-    "name": "Sunrise Manor",
-    "population": 18409,
-    "country": "Djibouti",
-    "id": "49"
+      "name": "Sunrise Manor",
+      "population": 18409,
+      "country": "Djibouti",
+      "id": "49"
     },
     {
-    "name": "Bakersfield",
-    "population": 3127,
-    "country": "Nicaragua",
-    "id": "50"
+      "name": "Bakersfield",
+      "population": 3127,
+      "country": "Nicaragua",
+      "id": "50"
     }
   ],
   "listicle": [
     {
-    "id": 1,
-    "title": "Atticus Wooden Single",
-    "image": "https://p.rmjo.in/productSquare/hc4dc706-500x500.jpg",
-    "price": 339
-  },
-  {
-    "id": 2,
-    "title": "Morris Office Chair",
-    "image": "https://p.rmjo.in/productSquare/esf6ag3q-500x500.jpg",
-    "price": 199
-  },
-  {
-    "id": 3,
-    "title": "Microwave Solo 20L",
-    "image": "https://p.rmjo.in/productSquare/n97vj5on-500x500.jpg",
-    "price": 299
-  },
-  {
-    "id": 4,
-    "title": "Single Door Fridge",
-    "image": "https://p.rmjo.in/productSquare/t9nfjx7q-500x500.jpg",
-    "price": 809
-  },
-  {
-    "id": 5,
-    "title": "Rowling Bookshelf Medium",
-    "image": "https://p.rmjo.in/productSquare/dwp7yb0x-500x500.jpg",
-    "price": 109
-  },
-  {
-    "id": 6,
-    "title": "Miller Office Chair",
-    "image": "https://p.rmjo.in/productSquare/mnuazvk3-500x500.jpg",
-    "price": 149
-  },
-  {
-    "id": 7,
-    "title": "Stuart Study Table",
-    "image": "https://p.rmjo.in/productSquare/em6h6xgy-500x500.jpg",
-    "price": 149
-  },
-  {
-    "id": 8,
-    "title": "Door Wardrobe",
-    "image": "https://p.rmjo.in/productSquare/fgb0p38q-500x500.jpg",
-    "price": 409
-  },
-  {
-    "id": 9,
-    "title": "Rowling BookShelf Small",
-    "image": "https://p.rmjo.in/productSquare/2yrmpjxd-500x500.jpg",
-    "price": 109
-  },
-  {
-    "id": 10,
-    "title": "Gordon 4-Seater Dining",
-    "image": "https://p.rmjo.in/productSquare/3viuyvz5-500x500.jpg",
-    "price": 789
-  },
-  {
-    "id": 11,
-    "title": "Poise Wooden King Bed",
-    "image": "https://p.rmjo.in/productSquare/lpm7f0x2-500x500.jpg",
-    "price": 669
-  },
-  {
-    "id": 12,
-    "title": "Aurora Wooden Queen Bed",
-    "image": "https://p.rmjo.in/productSquare/ygmpue5m-500x500.jpg",
-    "price": 539
-  },
-  {
-    "id": 13,
-    "title": "Mini Fridge",
-    "image": "https://p.rmjo.in/productSquare/n0dnrdzs-500x500.jpg",
-    "price": 449
-  },
-  {
-    "id": 14,
-    "title": "Semi Automatic Washing Machine",
-    "image": "https://p.rmjo.in/productSquare/49yxucoe-500x500.jpg",
-    "price": 479
-  },
-  {
-    "id": 15,
-    "title": "LED TV - 40",
-    "image": "https://p.rmjo.in/productSquare/v308sv6p-500x500.jpg",
-    "price": 1269
-  },
-  {
-    "id": 16,
-    "title": "OnePlus 7 Pro",
-    "image": "https://p.rmjo.in/productSquare/mxzy0xf9-500x500.jpg",
-    "price": 1479
-  },
-  {
-    "id": 17,
-    "title": "Inverter Air Conditioner",
-    "image": "https://p.rmjo.in/productSquare/5eff000p-500x500.jpg",
-    "price": 1939
-  },
-  {
-    "id": 18,
-    "title": "Double Door Fridge",
-    "image": "https://p.rmjo.in/productSquare/3c0jgjfo-500x500.jpg",
-    "price": 1049
-  },
-  {
-    "id": 19,
-    "title": "Auto Inclination Treadmill",
-    "image": "https://p.rmjo.in/productSquare/jsxcydcf-500x500.jpg",
-    "price": 2119
-  },
-  {
-    "id": 20,
-    "title": "Samsung Galaxy Note 10",
-    "image": "https://p.rmjo.in/productSquare/fhonufah-500x500.jpg",
-    "price": 1979
-  },
-  {
-    "id": 21,
-    "title": "Single Door Fridge",
-    "image": "https://p.rmjo.in/productSquare/w7951ctv-500x500.jpg",
-    "price": 719
-  },
-  {
-    "id": 22,
-    "title": "Top Load Washing Machine",
-    "image": "https://p.rmjo.in/productSquare/twx4hoa2-500x500.jpg",
-    "price": 769
-  },
-  {
-    "id": 23,
-    "title": "Air Conditioner 1 Ton",
-    "image": "https://p.rmjo.in/productSquare/l6xann5r-500x500.jpg",
-    "price": 1859
-  },
-  {
-    "id": 24,
-    "title": "OnePlus 7T Pro",
-    "image": "https://p.rmjo.in/productSquare/hzh6xems-500x500.jpg",
-    "price": 1639
-  }
-
+      "id": 1,
+      "title": "Atticus Wooden Single",
+      "image": "https://p.rmjo.in/productSquare/hc4dc706-500x500.jpg",
+      "price": 339
+    },
+    {
+      "id": 2,
+      "title": "Morris Office Chair",
+      "image": "https://p.rmjo.in/productSquare/esf6ag3q-500x500.jpg",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "title": "Microwave Solo 20L",
+      "image": "https://p.rmjo.in/productSquare/n97vj5on-500x500.jpg",
+      "price": 299
+    },
+    {
+      "id": 4,
+      "title": "Single Door Fridge",
+      "image": "https://p.rmjo.in/productSquare/t9nfjx7q-500x500.jpg",
+      "price": 809
+    },
+    {
+      "id": 5,
+      "title": "Rowling Bookshelf Medium",
+      "image": "https://p.rmjo.in/productSquare/dwp7yb0x-500x500.jpg",
+      "price": 109
+    },
+    {
+      "id": 6,
+      "title": "Miller Office Chair",
+      "image": "https://p.rmjo.in/productSquare/mnuazvk3-500x500.jpg",
+      "price": 149
+    },
+    {
+      "id": 7,
+      "title": "Stuart Study Table",
+      "image": "https://p.rmjo.in/productSquare/em6h6xgy-500x500.jpg",
+      "price": 149
+    },
+    {
+      "id": 8,
+      "title": "Door Wardrobe",
+      "image": "https://p.rmjo.in/productSquare/fgb0p38q-500x500.jpg",
+      "price": 409
+    },
+    {
+      "id": 9,
+      "title": "Rowling BookShelf Small",
+      "image": "https://p.rmjo.in/productSquare/2yrmpjxd-500x500.jpg",
+      "price": 109
+    },
+    {
+      "id": 10,
+      "title": "Gordon 4-Seater Dining",
+      "image": "https://p.rmjo.in/productSquare/3viuyvz5-500x500.jpg",
+      "price": 789
+    },
+    {
+      "id": 11,
+      "title": "Poise Wooden King Bed",
+      "image": "https://p.rmjo.in/productSquare/lpm7f0x2-500x500.jpg",
+      "price": 669
+    },
+    {
+      "id": 12,
+      "title": "Aurora Wooden Queen Bed",
+      "image": "https://p.rmjo.in/productSquare/ygmpue5m-500x500.jpg",
+      "price": 539
+    },
+    {
+      "id": 13,
+      "title": "Mini Fridge",
+      "image": "https://p.rmjo.in/productSquare/n0dnrdzs-500x500.jpg",
+      "price": 449
+    },
+    {
+      "id": 14,
+      "title": "Semi Automatic Washing Machine",
+      "image": "https://p.rmjo.in/productSquare/49yxucoe-500x500.jpg",
+      "price": 479
+    },
+    {
+      "id": 15,
+      "title": "LED TV - 40",
+      "image": "https://p.rmjo.in/productSquare/v308sv6p-500x500.jpg",
+      "price": 1269
+    },
+    {
+      "id": 16,
+      "title": "OnePlus 7 Pro",
+      "image": "https://p.rmjo.in/productSquare/mxzy0xf9-500x500.jpg",
+      "price": 1479
+    },
+    {
+      "id": 17,
+      "title": "Inverter Air Conditioner",
+      "image": "https://p.rmjo.in/productSquare/5eff000p-500x500.jpg",
+      "price": 1939
+    },
+    {
+      "id": 18,
+      "title": "Double Door Fridge",
+      "image": "https://p.rmjo.in/productSquare/3c0jgjfo-500x500.jpg",
+      "price": 1049
+    },
+    {
+      "id": 19,
+      "title": "Auto Inclination Treadmill",
+      "image": "https://p.rmjo.in/productSquare/jsxcydcf-500x500.jpg",
+      "price": 2119
+    },
+    {
+      "id": 20,
+      "title": "Samsung Galaxy Note 10",
+      "image": "https://p.rmjo.in/productSquare/fhonufah-500x500.jpg",
+      "price": 1979
+    },
+    {
+      "id": 21,
+      "title": "Single Door Fridge",
+      "image": "https://p.rmjo.in/productSquare/w7951ctv-500x500.jpg",
+      "price": 719
+    },
+    {
+      "id": 22,
+      "title": "Top Load Washing Machine",
+      "image": "https://p.rmjo.in/productSquare/twx4hoa2-500x500.jpg",
+      "price": 769
+    },
+    {
+      "id": 23,
+      "title": "Air Conditioner 1 Ton",
+      "image": "https://p.rmjo.in/productSquare/l6xann5r-500x500.jpg",
+      "price": 1859
+    },
+    {
+      "id": 24,
+      "title": "OnePlus 7T Pro",
+      "image": "https://p.rmjo.in/productSquare/hzh6xems-500x500.jpg",
+      "price": 1639
+    }
   ],
   "profile": { "name": "ravipandey" }
 }
